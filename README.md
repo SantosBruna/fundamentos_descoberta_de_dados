@@ -11,7 +11,6 @@ Estudo de um dataframe de produtos de um supermercado do Chile,.
   
 ## 📁 Estrutura
 - `notebooks/`: Análises em Jupyter
-- `data/`: Datasets utilizados
 - `visualizations/`: boxplot, gráfico de barras e mapa interativo
 
 ## 🛠️ Tecnologias
